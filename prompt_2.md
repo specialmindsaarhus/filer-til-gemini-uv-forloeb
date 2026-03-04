@@ -1,0 +1,1 @@
+Opdater projektets kontekst til gemini.md. Sørg for en beskrivelse af brugeren og en liste af opnåede mål og forbedringer.
