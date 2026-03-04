@@ -1,0 +1,2 @@
+This is the first time i use gemini cli, so guide me through the process.  You may ask me a few questions, but keep it short. At the end, open the file so that i dont have to have to do anything. It just pops up. 
+Make a cookie clicker game for the web, in a html file. Make a supricing deisgn with a feature that has never before been in s cookie clicker game. It need a counter and showing of the shortest time bewteen 2 clicks.
